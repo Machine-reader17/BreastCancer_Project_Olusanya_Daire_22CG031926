@@ -4,3 +4,4 @@ numpy
 pandas
 joblib
 flask-cors
+gunicorn==21.2.0
